@@ -2,7 +2,7 @@
 
 This sample is the .NET implementation of the [official Azure Voting App](https://github.com/Azure-Samples/azure-voting-app-redis). This sample creates a multi-container application in a Kubernetes cluster like the original one.
 
-The application interface is built using ASP.NET Core Blazor Server. The data component uses Redis.
+The application interface is built using ASP.NET Core Blazor Server. The data component uses Redis. 
 
 This sample also includes the following features:
 
